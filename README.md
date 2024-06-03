@@ -19,7 +19,7 @@
 
 ## **Dependencies:**
 
- - * **axios:** Used for making API requests ([https://github.com/axios](https://github.com/axios))
+ * **axios:** Used for making API requests ([https://github.com/axios](https://github.com/axios))
 
 ## **Project Structure:**
 
